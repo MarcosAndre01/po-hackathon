@@ -8,5 +8,5 @@ Atividade desenvolvida na disciplina de Pesquisa Operacional, ministrada pelo Pr
 
 ## Alterações desde a apresentação
 
-- Adicionei os conjuntos dos índices nas expressões matemáticas dos slides.
-- Estudo de caso para comparar com a abordagem manual e justificar o uso de programação linear (adicionado no arquivo estudo_de_caso.pdf).
+- Adicionei os conjuntos dos índices nas expressões matemáticas dos slides ([slides.pdf](slides.pdf)).
+- Estudo de caso para comparar com a abordagem manual e justificar o uso de programação linear (adicionado no arquivo [estudo_de_caso.pdf](estudo_de_caso.pdf)).
